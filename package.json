@@ -17,6 +17,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "now": "^9.2.8"
+    "now": "^9.2.8",
+    "tachyons-cli": "^1.2.0"
   }
 }
